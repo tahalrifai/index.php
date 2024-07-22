@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://
+Sitemap: https://openlibrarypublications.telkomuniversity.ac.id/lib/pkp/sitemap.xml
